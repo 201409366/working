@@ -8,6 +8,7 @@ public class RegularExpression {
 	public static void main(String[] args) {
 		//简单认识正则表达式的概念；
 		/*
+		 * 
 		p("[a-z]{2}".matches("au"));
 		p("au".matches("[a-z]{2}"));
 		Pattern p = Pattern.compile("[a-z]{4}");
